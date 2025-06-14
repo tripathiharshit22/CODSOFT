@@ -41,7 +41,4 @@ A functional calculator application built with HTML, CSS, and JavaScript. This t
 
 🔗 [View Project](./calculator)
 
----
-
-## 📌 Folder Structure
 
